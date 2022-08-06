@@ -32,7 +32,7 @@
 
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samunicode&show_icons=true&locale=en&layout=compact" alt="samunicode" /></p>
 
-<p align="center" > &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samunicode&show_icons=true&locale=en" alt="samunicode" /></p>
+//<p align="center" > &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samunicode&show_icons=true&locale=en" alt="samunicode" /></p>
 
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samunicode&theme=default" alt="samunicode" /></p>
 <br>
