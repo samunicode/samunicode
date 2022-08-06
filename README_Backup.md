@@ -116,36 +116,28 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 ## 📕 Pinned Repositories
 
 <p align="center">
-<a href="https://github.com/Asmit2952/Asmit2952.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Asmit2952.github.io&hide_border=true&theme=algolia" />
+<a href="https://github.com/samunicode/Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=Portfolio&hide_border=true&theme=algolia" />
 </a>
 
-<a href="https://github.com/Asmit2952/Open-Source-Programs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Open-Source-Programs&hide_border=true&theme=algolia" />
+<a href="https://github.com/samunicode/RPGen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=RPGen&hide_border=true&theme=algolia" />
 </a>
 
-<a href="https://github.com/Asmit2952/Weather-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Weather-App&hide_border=true&theme=algolia" />
+<a href="https://github.com/samunicode/Weather-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=Weather-App&hide_border=true&theme=algolia" />
 </a>
 
-<a href="https://github.com/Asmit2952/Web-accessibility-tester">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Web-accessibility-tester&hide_border=true&theme=algolia" />
+<a href="https://github.com/samunicode/Netflix-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=Netflix-Clone&hide_border=true&theme=algolia" />
 </a>
 
-<a href="https://github.com/Asmit2952/MP3-Player">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=MP3-Player&hide_border=true&theme=algolia" />
+<a href="https://github.com/samunicode/MP3-Player">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=MP3-Player&hide_border=true&theme=algolia" />
 </a>
 
-<a href="https://github.com/Asmit2952/CLI-passgen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=CLI-passgen&hide_border=true&theme=algolia" />
-</a>
-
-<a href="https://github.com/Asmit2952/URL-Shortener">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=URL-Shortener&hide_border=true&theme=algolia" />
-</a>
-
-<a href="https://github.com/Asmit2952/Twitter-Dynamic-Header">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Twitter-Dynamic-Header&hide_border=true&theme=algolia" />
+<a href="https://github.com/samunicode/Open-Source-Opportunities">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=Open-Source-Opportunities&hide_border=true&theme=algolia" />
 </a>
 
 </p>
