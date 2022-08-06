@@ -37,5 +37,5 @@
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samunicode&theme=default" alt="samunicode" /></p>
 <br>
 <p align="center">
-<a href="https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV?si=fb827f29982d46ab" target="_blank"><img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" alt="Your alt what" width="500" align/></a>
+<a href="https://open.spotify.com/track/2wJhFcye5iiW2mVBpGednz?si=51f9826d8a6644bd" target="_blank"><img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" alt="Your alt what" width="500" align/></a>
 </p>
