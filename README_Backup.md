@@ -19,7 +19,7 @@
 	<a href="https://dev.to/samunicode">
 		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 	</a>
-        <a href="https://www.github.com/samunicode/">
+        <a href="https://www.sameerchauhan.in/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
 	<a href="https://linktr.ee/cbsameer">
