@@ -10,22 +10,22 @@
 <h3 align="center"> When I am not coding, you'll find me lifting weights in the gym or at my desk sketching stuff. Find out more about me & feel free to connect with me here:</h3>
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/asmit-malakannawar/">
+	<a href="https://www.linkedin.com/in/cbsameer/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="https://twitter.com/Asmit_2952">
+	<a href="https://twitter.com/samunicode">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>
-	<a href="https://dev.to/asmit2952">
+	<a href="#">
 		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 	</a>
-        <a href="https://asmit2952.github.io/">
+        <a href="https://www.github.com/samunicode/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
-	<a href="https://asmit.bio.link/">
-		<img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" />
+	<a href="">
+		<img src="https://camo.githubusercontent.com/099d6848831a78c1b3b13e741a56803c70ab02d9b77c41f5e04c15999f0ae9d6/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4c696e6b7472656526636f6c6f723d323232323232266c6f676f3d4c696e6b74726565266c6f676f436f6c6f723d333945303942266c6162656c3d" />
 	</a>
-        <a href="mailto:asmitbm2952002@gmail.com">
+        <a href="mailto:contact@sameerchauhan.in">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
