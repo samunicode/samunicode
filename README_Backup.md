@@ -147,5 +147,5 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 ---
 
 <p align="center">
-   <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
+   <img src="https://github.com/samunicode/samunicode/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
