@@ -10,8 +10,9 @@
 <a href="https://www.getrevue.co/profile/asmit">
    <img src="https://img.shields.io/badge/Revue-FFA500?style=for-the-badge&logo=rss&logoColor=white" />
 </a>
-</p>	
+</p>
 
+##
 When I am not coding, you'll find me lifting weights in the gym or at my desk sketching stuff. Find out more about me & feel free to connect with me here:
 
 <p align="center">
