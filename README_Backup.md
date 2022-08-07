@@ -6,13 +6,7 @@
 
 <h3 align="justify">I'm a computer science passionate individual who loves taking on new challenges and solving real-world problems. As a Front-End Developer, UI/UX Designer and Competitive Programmer, I have the opportunity to work on some amazing projects and solve challenging problems. I'm also the Chairperson @ CodeChef MUJ Student Chapter, a college club dedicated towards building a robust Competitive Programming culture in the campus and making it accessible to all.</h3>
 
-<p align="center">
-<a href="https://www.getrevue.co/profile/asmit">
-   <img src="https://img.shields.io/badge/Revue-FFA500?style=for-the-badge&logo=rss&logoColor=white" />
-</a>
-</p>
-
-##
+###
 When I am not coding, you'll find me lifting weights in the gym or at my desk sketching stuff. Find out more about me & feel free to connect with me here:
 
 <p align="center">
@@ -38,7 +32,7 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 
 ---
 
-## ⚡ Tech Stack
+### ⚡ Tech Stack
 
 ### 🚀 Languages
 
