@@ -1,17 +1,10 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQEmC7BrYiGJ4w/profile-displaybackgroundimage-shrink_350_1400/0/1657371574034?e=1665014400&v=beta&t=G_XLA12L-uLt7hpD3SCB1Yw9S7unuV1UF_JECtMtlbk)](https://sameerchauhan.in)
-# Hey!! Great to see you here! <img href="https://media-exp1.licdn.com/dms/image/C4D16AQEmC7BrYiGJ4w/profile-displaybackgroundimage-shrink_350_1400/0/1657371574034?e=1665014400&v=beta&t=G_XLA12L-uLt7hpD3SCB1Yw9S7unuV1UF_JECtMtlbk" width="30px" height="30px">
 
-<a href="https://asmit2952.github.io/"><img src="/src/profile_banner.gif"></a>
+<h1 align="center">Hi 👋, I'm Sameer Chauhan</h1>
 
-* 📖 Pursuing my Bachelor's in Computer Science and Business Systems from [Bharati Vidyapeeth (DU) College of Engineering](https://bvucoepune.edu.in/). 
+<h3 align="center">I'm a computer science passionate individual who loves taking on new challenges and solving real-world problems. As a Front-End Developer, UI/UX Designer and Competitive Programmer, I have the opportunity to work on some amazing projects and solve challenging problems. I'm also the Chairperson @ CodeChef MUJ Student Chapter, a college club dedicated towards building a robust Competitive Programming culture in the campus and making it accessible to all.</h3>
 
-* 🧑🏻‍💻 Tech enthusiast, designer & an open-source advocate. 
-
-* 💡 Always open to collaborating on projects and innovative/disruptive ideas. 
-
-* 💻 Currently learning [React](https://reactjs.org/).
-
-* 📰 Subscribe to my newsletter: 
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/vmMY3RY/gitright.webp">
 
 <p align="center">
 <a href="https://www.getrevue.co/profile/asmit">
