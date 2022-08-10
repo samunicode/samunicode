@@ -141,7 +141,7 @@
 </a>
 
 <a href="https://github.com/samunicode/Music-Player">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=MP3-Player&hide_border=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=Music-Player&hide_border=true&theme=algolia" />
 </a>
 
 <a href="https://github.com/samunicode/Open-Source-Opportunities">
