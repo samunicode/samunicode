@@ -136,9 +136,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=Weather-App&hide_border=true&theme=algolia" />
 </a>
 
-<a href="https://github.com/samunicode/Netflix-Clone">
+<!--- <a href="https://github.com/samunicode/Netflix-Clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=Netflix-Clone&hide_border=true&theme=algolia" />
-</a>
+</a> -->
 
 <a href="https://github.com/samunicode/Music-Player">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=Music-Player&hide_border=true&theme=algolia" />
