@@ -36,6 +36,7 @@
 - 🎓 **Studying Honors Computer Science with IOT @Manipal Uiversity Jaipur. Class of 2025.** 
 - 🎓 **Studying Data Science & Applications @Indian Institute of Technology, Madras (Distance). Class of 2025.**
 - 🧑‍💻 **Chairperson @CodeChef MUJ Student Chapter. A club dedicated towards building a robust Competitive Programming culture**
+- 🎨 **Design Head @PANACEA MUJ. PANACEA is an Official Computer & Communication Engineering Departmental Club**
 - 🧑‍💻 **Student Lead @Analytics India MUJ Community. A community to develop and empower Data Science & AL/ML culture**
 - 🧑‍💻 **Mentor (CS Foundation & CP) @Catalyst MUJ. Catalyst is a lead programe to provide mentorship and fosture development/CP culture in campus.**
 - ✍️ **Blogger @WarpStack. My personal blog where I share tips, tricks and hacks to ace CP and share insightful info about upcoming tech.**
