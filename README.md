@@ -144,8 +144,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=Music-Player&hide_border=true&theme=algolia" />
 </a>
 
-<a href="https://github.com/samunicode/Open-Source-Opportunities">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=Open-Source-Opportunities&hide_border=true&theme=algolia" />
+<a href="https://github.com/samunicode/MUJ-Central">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=MUJ-Central&hide_border=true&theme=algolia" />
 </a>
 
 </p>
