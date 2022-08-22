@@ -124,15 +124,15 @@
 ## 📕 Pinned Repositories
 
 <p align="center">
-<a href="https://github.com/samunicode/Portfolio">
+<!---<a href="https://github.com/samunicode/Portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=Portfolio&hide_border=true&theme=algolia" />
-</a>
+</a> -->
 
 <a href="https://github.com/samunicode/RPGen">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=RPGen&hide_border=true&theme=algolia" />
 </a>
 
-<a href="https://github.com/samunicode/Weather-App">
+<!--- <a href="https://github.com/samunicode/Weather-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=Weather-App&hide_border=true&theme=algolia" />
 </a>
 
