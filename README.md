@@ -106,16 +106,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=samunicode&hide_border=true&theme=algolia" />
 </p>
 
-## ✍🏻 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Google Summer of Code with GNOME Foundation.](#)
-- [What is a vector search engine?](#)
-- [What is SEO?](#)
-- [What is SAWO Labs Champ Program?](#)
-- [What is FOSSology and how to set it up?](#)
-<!-- BLOG-POST-LIST:END -->
-
 ## 🔝 Most used languages
 
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samunicode&layout=compact&hide_border=true&theme=algolia" />
