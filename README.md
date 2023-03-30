@@ -95,25 +95,29 @@
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=samunicode&show_icons=true&hide_border=true&theme=algolia" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?user=samunicode&hide_border=true&theme=algolia" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=samunicode&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?user=samunicode&hide_border=true&theme=tokyonight" />
 </p>
 
 ## 🔝 Most used languages
 
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samunicode&layout=compact&hide_border=true&theme=algolia" />
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samunicode&layout=compact&hide_border=true&theme=tokyonight" />
 
 ---
 
 ## 📕 Pinned Repositories
 
 <p align="center">
-<!---<a href="https://github.com/samunicode/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=Portfolio&hide_border=true&theme=algolia" />
-</a> -->
+<a href="https://github.com/samunicode/sameer-s_resume">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=sameer-s_resume&hide_border=true&theme=tokyonight" />
+</a> 
+	
+<a href="https://github.com/samunicode/MUJ-Central">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=MUJ-Central&hide_border=true&theme=algolia" />
+</a>
 
 <a href="https://github.com/samunicode/RPGen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=RPGen&hide_border=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=RPGen&hide_border=true&theme=tokyonight" />
 </a>
 
 <!--- <a href="https://github.com/samunicode/Weather-App">
@@ -125,12 +129,9 @@
 </a> -->
 
 <a href="https://github.com/samunicode/Music-Player">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=Music-Player&hide_border=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=Music-Player&hide_border=true&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/samunicode/MUJ-Central">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=MUJ-Central&hide_border=true&theme=algolia" />
-</a>
 
 </p>
 
