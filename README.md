@@ -4,12 +4,12 @@
 </div>
 <div align="left" width="48%">
 👋 Hi there! My name is Sameer and I'm a computer science student looking for internships. I'm passionate about web development and cloud computing, and love solving real-world problems. I'm always eager to learn and explore new technologies, and enjoy implementing new ideas and concepts. Here are some key points about me:
-Web development is my main area of expertise.
-- I'm interested in cloud computing and its applications.
-- I believe in the practical aspect of learning and enjoy implementing new ideas.
-- I'm a motivated and enthusiastic individual who loves contributing to a team.
-- I'm excited to work on meaningful projects and make an impact.
-- If you're interested in connecting with me, feel free to reach out!
+Web development is my main area of expertise. <br>
+I'm interested in cloud computing and its applications.<br>
+I believe in the practical aspect of learning and enjoy implementing new ideas.<br>
+I'm a motivated and enthusiastic individual who loves contributing to a team.<br>
+I'm excited to work on meaningful projects and make an impact.<br>
+If you're interested in connecting with me, feel free to reach out!<br>
 </div>
 <p align="left">
 	<a href="https://www.linkedin.com/in/cbsameer/">
