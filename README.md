@@ -101,7 +101,7 @@
 
 ## 🔝 Most used languages
 <p align="center">
-  <img width="100%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samunicode&layout=compact&hide_border=true&theme=algolia" />
+  <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samunicode&layout=compact&hide_border=true&theme=algolia" />
 </P>
 ---
 
