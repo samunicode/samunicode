@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQEmC7BrYiGJ4w/profile-displaybackgroundimage-shrink_350_1400/0/1657371574034?e=1665014400&v=beta&t=G_XLA12L-uLt7hpD3SCB1Yw9S7unuV1UF_JECtMtlbk)](https://sameerchauhan.in)
+[//]: <> ([![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQEmC7BrYiGJ4w/profile-displaybackgroundimage-shrink_350_1400/0/1657371574034?e=1665014400&v=beta&t=G_XLA12L-uLt7hpD3SCB1Yw9S7unuV1UF_JECtMtlbk)](https://sameerchauhan.in)))
 <h1 align="center">Hi 👋, I'm Sameer Chauhan</h1>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/vmMY3RY/gitright.webp">
 
@@ -37,7 +37,7 @@
 - 🎓 **Studying Data Science & Applications @Indian Institute of Technology, Madras (Distance). Class of 2025.**
 - 🧑‍💻 **Projects & Development Lead @MUJ Central. A one-stop destination for anything and everything @MUJ**
 - 🧑‍💻 **Student Ambassador @CodeChef. A community dedicated towards building a robust Competitive Programming culture**
-
+- 🚀 **Active member of clubs like ACM, GDSC, IEEE since 2021**
 ---
 
 ### ⚡ Tech Stack
