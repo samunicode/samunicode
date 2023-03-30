@@ -101,7 +101,7 @@
 
 ## 🔝 Most used languages
 <p align="center">
-  <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samunicode&layout=compact&hide_border=true&theme=algolia" />
+  <img width="40%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samunicode&layout=compact&hide_border=true&theme=algolia" />
 </P>
 ---
 
@@ -135,8 +135,13 @@
 
 </p>
 
-
 ---
+
+## 🎧 Recently Listening To
+
+<div align="center">
+<img src="https://apple-music-readme.vercel.app/?" align="center">
+</div>
 
 <p align="center">
    <img src="https://github.com/samunicode/samunicode/blob/output/github-contribution-grid-snake.svg" alt="snake">
