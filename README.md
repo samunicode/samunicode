@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sameer Chauhan</h1>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/vmMY3RY/gitright.webp">
 
-<div align="center" style="font-weight: bold;">
-Hi, I'm Sameer 🚀, a computer science student currently seeking internships. I am a web developer with a passion for solving real-world problems and a strong interest in Web Development & Cloud Computing. As a tech enthusiast, I am always looking for new opportunities to learn and explore new technologies. I am a strong believer in practicality and enjoy implementing new ideas and concepts. I am excited to work on meaningful projects and contribute to the success of a team. If you are looking for a motivated and enthusiastic person with a passion for software development, please do not hesitate to connect with me.
+<div align="center">
+<p style="font-weight: bold;">Hi, I'm Sameer 🚀, a computer science student currently seeking internships. I am a web developer with a passion for solving real-world problems and a strong interest in Web Development & Cloud Computing. As a tech enthusiast, I am always looking for new opportunities to learn and explore new technologies. I am a strong believer in practicality and enjoy implementing new ideas and concepts. I am excited to work on meaningful projects and contribute to the success of a team. If you are looking for a motivated and enthusiastic person with a passion for software development, please do not hesitate to connect with me.</p>
+	<br>
 </div>
 
 <p align="left">
