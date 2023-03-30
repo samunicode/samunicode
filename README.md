@@ -94,13 +94,14 @@
 
 ## 📈 Stats
 
-  ![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=samunicode&show_icons=true&hide_border=true&theme=radical)
-  
-  ![Sameer's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=samunicode&hide_border=true&theme=radical)
+ <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=samunicode&show_icons=true&hide_border=true&theme=radical" />
+  <img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=samunicode&hide_border=true&theme=radical" />
+</p>
 
 ## 🔝 Most used languages
 
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samunicode&layout=compact&hide_border=true&theme=synthwave" />
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samunicode&layout=compact&hide_border=true&theme=radical" />
 
 ---
 
@@ -108,15 +109,15 @@
 
 <p align="center">
 <a href="https://github.com/samunicode/sameer-s_resume">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=sameer-s_resume&hide_border=true&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=sameer-s_resume&hide_border=true&theme=radical" />
 </a> 
 	
 <a href="https://github.com/samunicode/MUJ-Central">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=MUJ-Central&hide_border=true&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=MUJ-Central&hide_border=true&theme=radical" />
 </a>
 
 <a href="https://github.com/samunicode/RPGen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=RPGen&hide_border=true&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=RPGen&hide_border=true&theme=radical" />
 </a>
 
 <!--- <a href="https://github.com/samunicode/Weather-App">
@@ -128,7 +129,7 @@
 </a> -->
 
 <a href="https://github.com/samunicode/Music-Player">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=Music-Player&hide_border=true&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=Music-Player&hide_border=true&theme=radical" />
 </a>
 
 
