@@ -42,12 +42,12 @@ If you're interested in connecting with me, feel free to reach out!
 
 ---
 ## 😎 About Me 
-- 🚀 **Competitive Programmer 🧠 | Front End Web Developer 💻 | UI/UX Designer 🎨**
-- 🎓 **Studying Honors Computer Science with IOT @Manipal Uiversity Jaipur. Class of 2025.** 
-- 🎓 **Studying Data Science & Applications @Indian Institute of Technology, Madras (Distance). Class of 2025.**
-- 🧑‍💻 **Projects & Development Lead @MUJ Central. A one-stop destination for anything and everything @MUJ**
-- 🧑‍💻 **Student Ambassador @CodeChef. A community dedicated towards building a robust Competitive Programming culture**
-- 🚀 **Active member of clubs like ACM, GDSC, IEEE since 2021**
+- 🚀 Competitive Programmer 🧠 | Front End Web Developer 💻 | UI/UX Designer 🎨
+- 🎓 Studying Honors Computer Science with IOT @Manipal Uiversity Jaipur. Class of 2025.
+- 🎓 Studying Data Science & Applications @Indian Institute of Technology, Madras (Distance). Class of 2025.
+- 🧑‍💻 Projects & Development Lead @MUJ Central. A one-stop destination for anything and everything @MUJ
+- 🧑‍💻 Student Ambassador @CodeChef. A community dedicated towards building a robust Competitive Programming culture
+- 🚀 Active member of clubs like ACM, GDSC, IEEE since 2021**
 ---
 
 ## ⚡ Tech Stack
