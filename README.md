@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sameer Chauhan</h1>
+<div width="48%">
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/vmMY3RY/gitright.webp">
-
-<h3 align="center">Hi, I'm Sameer 🚀, a computer science student currently seeking internships. I am a web developer with a passion for solving real-world problems and a strong interest in Web Development & Cloud Computing. As a tech enthusiast, I am always looking for new opportunities to learn and explore new technologies. I am a strong believer in practicality and enjoy implementing new ideas and concepts. I am excited to work on meaningful projects and contribute to the success of a team. If you are looking for a motivated and enthusiastic person with a passion for software development, please do not hesitate to connect with me.
-</h3>
-
+</div>
+<div align="left" width="48%">
+👋 Hi there! My name is Sameer and I'm a computer science student looking for internships. I'm passionate about web development and cloud computing, and love solving real-world problems. I'm always eager to learn and explore new technologies, and enjoy implementing new ideas and concepts. Here are some key points about me:
+Web development is my main area of expertise.
+- I'm interested in cloud computing and its applications.
+- I believe in the practical aspect of learning and enjoy implementing new ideas.
+- I'm a motivated and enthusiastic individual who loves contributing to a team.
+- I'm excited to work on meaningful projects and make an impact.
+- If you're interested in connecting with me, feel free to reach out!
+</div>
 <p align="left">
 	<a href="https://www.linkedin.com/in/cbsameer/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
