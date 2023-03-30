@@ -30,7 +30,7 @@
 </p>
 
 ---
-### 😎 About Me 
+## 😎 About Me 
 - 🚀 **Competitive Programmer 🧠 | Front End Web Developer 💻 | UI/UX Designer 🎨**
 - 🎓 **Studying Honors Computer Science with IOT @Manipal Uiversity Jaipur. Class of 2025.** 
 - 🎓 **Studying Data Science & Applications @Indian Institute of Technology, Madras (Distance). Class of 2025.**
@@ -39,7 +39,7 @@
 - 🚀 **Active member of clubs like ACM, GDSC, IEEE since 2021**
 ---
 
-### ⚡ Tech Stack
+## ⚡ Tech Stack
 
 ### 🚀 Languages
 
