@@ -3,7 +3,7 @@
 
 <img src="https://i.ibb.co/vmMY3RY/gitright.webp" width="400" align="right">
 👋 Hi there! My name is Sameer and I'm a computer science student looking for internships. I'm passionate about web development and cloud computing, and love solving real-world problems. I'm always eager to learn and explore new technologies.
-<br>
+<br><br>
 Here are some key points about me:
 <ul>
     <li> Web development is my main area of expertise</li>
@@ -47,7 +47,7 @@ If you're interested in connecting with me, feel free to reach out!
 - 🎓 Studying Data Science & Applications @Indian Institute of Technology, Madras (Distance). Class of 2025.
 - 🧑‍💻 Projects & Development Lead @MUJ Central. A one-stop destination for anything and everything @MUJ
 - 🧑‍💻 Student Ambassador @CodeChef. A community dedicated towards building a robust Competitive Programming culture
-- 🚀 Active member of clubs like ACM, GDSC, IEEE since 2021**
+- 🚀 Active member of clubs like ACM, GDSC, IEEE since 2021
 ---
 
 ## ⚡ Tech Stack
