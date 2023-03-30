@@ -97,6 +97,8 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=samunicode&show_icons=true&hide_border=true&theme=synthwave" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?user=samunicode&hide_border=true&theme=synthwave" />
+  ![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=samunicode&show_icons=true&theme=radical)
+
 </p>
 
 ## 🔝 Most used languages
