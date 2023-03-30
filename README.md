@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sameer Chauhan</h1>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/vmMY3RY/gitright.webp">
 
-<h4 align="center">I'm a computer science passionate individual who loves taking on new challenges and solving real-world problems. As a Front-End Developer, UI/UX Designer and Competitive Programmer, I have the opportunity to work on some amazing projects and solve challenging problems. I'm also the Chairperson @ CodeChef MUJ Student Chapter, a college club dedicated towards building a robust Competitive Programming culture in the campus and making it accessible to all.</h3>
+<h4 align="center">Hi, I'm Sameer 🚀, a computer science student currently seeking internships. I am a web developer with a passion for solving real-world problems and a strong interest in Web Development & Cloud Computing. As a tech enthusiast, I am always looking for new opportunities to learn and explore new technologies. I am a strong believer in practicality and enjoy implementing new ideas and concepts. In addition to my technical skills, I am a strong team player with excellent communication skills, and I enjoy meeting new people and exchanging ideas. I am excited to work on meaningful projects and contribute to the success of a team. If you are looking for a motivated and enthusiastic person with a passion for software development, please do not hesitate to connect with me.</h3>
 
 ###
 <h4 align="center"> 😁I am kinda boring and sometimes dumb though, but I am a determined guy. When I am not coding, you will find me lifting weights in the gym or at my desk sketching stuff. Find out more about me & feel free to connect with me here:</h3>
