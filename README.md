@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sameer Chauhan</h1>
-
+<img src="https://iili.io/HOH20fj.webp">
 
 <img src="https://i.ibb.co/vmMY3RY/gitright.webp" width="300" align="right">
 👋 Hi there! My name is Sameer and I'm a computer science student looking for internships. I'm passionate about web development and cloud computing, and love solving real-world problems. I'm always eager to learn and explore new technologies.
