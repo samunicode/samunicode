@@ -100,9 +100,9 @@
 </p>
 
 ## 🔝 Most used languages
-
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samunicode&layout=compact&hide_border=true&theme=algolia" />
-
+<p align="center">
+  <img width="100%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samunicode&layout=compact&hide_border=true&theme=algolia" />
+</P>
 ---
 
 ## 📕 Pinned Repositories
