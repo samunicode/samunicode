@@ -155,6 +155,9 @@ If you're interested in connecting with me, feel free to reach out!
 <img src="https://apple-music-readme.vercel.app/?" align="center">
 </div>
 
+---
+
+## 🐍Contribution Graph
 <p align="center">
    <img src="https://github.com/samunicode/samunicode/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
