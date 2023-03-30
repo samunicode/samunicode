@@ -96,7 +96,7 @@
 
   ![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=samunicode&show_icons=true&hide_border=true&theme=radical)
   
-  ![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=samunicode&show_icons=true&theme=radical)
+  ![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?user=samunicode&hide_border=true&theme=radical)
 
 ## 🔝 Most used languages
 
