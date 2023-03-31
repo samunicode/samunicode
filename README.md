@@ -49,6 +49,20 @@ If you're interested in connecting with me, feel free to reach out!
 - 🚀 Active member of clubs like ACM, GDSC, IEEE since 2021
 ---
 
+## 📈 Stats
+
+ <p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=samunicode&show_icons=true&hide_border=true&theme=algolia" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=samunicode&hide_border=true&theme=algolia" />
+</p>
+
+## 🔝 Most used languages
+<p align="center">
+  <img width="40%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samunicode&layout=compact&hide_border=true&theme=algolia" />
+</P>
+
+---
+
 ## ⚡ Tech Stack
 
 ### 🚀 Languages
@@ -99,20 +113,6 @@ If you're interested in connecting with me, feel free to reach out!
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
----
-
-## 📈 Stats
-
- <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=samunicode&show_icons=true&hide_border=true&theme=algolia" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=samunicode&hide_border=true&theme=algolia" />
-</p>
-
-## 🔝 Most used languages
-<p align="center">
-  <img width="40%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samunicode&layout=compact&hide_border=true&theme=algolia" />
-</P>
 
 ---
 
