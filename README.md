@@ -150,6 +150,8 @@ If you're interested in connecting with me, feel free to reach out!
 </div>
 
 ---
-<!--
+
 ## 🐍Contribution Graph
-![snake gif](https://github.com/samunicode/samunicode/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=samunicode&area_color=5bcdec&point=ff897a&color=5bcdec&line=5bcdec&bg_color=0d1117&hide_border=true" width="50%"/>
+</p
