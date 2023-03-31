@@ -56,11 +56,6 @@ If you're interested in connecting with me, feel free to reach out!
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=samunicode&hide_border=true&theme=algolia" />
 </p>
 
-## 🔝 Most used languages
-<p align="center">
-  <img width="40%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samunicode&layout=compact&hide_border=true&theme=algolia" />
-</P>
-
 ---
 
 ## ⚡ Tech Stack
