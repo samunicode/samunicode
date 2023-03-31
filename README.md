@@ -155,6 +155,6 @@ If you're interested in connecting with me, feel free to reach out!
 </div>
 
 ---
-
+<!--
 ## 🐍Contribution Graph
 ![snake gif](https://github.com/samunicode/samunicode/blob/output/github-contribution-grid-snake.gif)
