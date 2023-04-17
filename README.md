@@ -119,7 +119,7 @@ If you're interested in connecting with me, feel free to reach out!
 </a> 
 	
 <a href="https://github.com/samunicode/Shortify-URL-Shortner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=MUJ-Central&hide_border=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samunicode&repo=Shortify-URL-Shortner&hide_border=true&theme=algolia" />
 </a>
 
 <a href="https://github.com/samunicode/RPGen">
