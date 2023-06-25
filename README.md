@@ -160,6 +160,5 @@ If you're interested in connecting with me, feel free to reach out!
 ---
 
 ## ✨Random Qoute
-<p align="center">
+
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&pause=1000&background=050F2C&center=true&vCenter=true&width=435&separator=%3C&lines=while(+!+(+succeed+%3D+try+(+)+)+);)](https://git.io/typing-svg)
-</p
