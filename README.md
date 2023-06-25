@@ -159,6 +159,6 @@ If you're interested in connecting with me, feel free to reach out!
 
 ---
 
-## ✨Random Qoute
+## ❤️ Straight from the Heart
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&pause=1000&background=050F2C&center=true&vCenter=true&width=435&separator=%3C&lines=while(+!+(+succeed+%3D+try+(+)+)+);)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=27&duration=2000&pause=&background=050F2C&center=true&vCenter=true&multiline=true&width=700&height=190&lines=Code+with+passion%2C+create+with+purpose%2C;and+let+your+imagination+weave;the+web+of+endless+possibilities.;+;~+Sameer+Chauhan)](https://git.io/typing-svg)
