@@ -52,7 +52,7 @@ If you're interested in connecting with me, feel free to reach out!
 ## 📈 Stats
 
  <p align="center">
-  <img width="47%" src="https://github-readme-stats-samunicode.vercel.app/api?username=samunicode&show_icons=true&hide_border=true&theme=algolia" />
+  <img width="47%" src="https://readme-stats-rho-navy.vercel.app/api?username=samunicode&show_icons=true&hide_border=true&theme=algolia" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=samunicode&hide_border=true&theme=algolia" />
 </p>
 
